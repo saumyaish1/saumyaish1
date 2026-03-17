@@ -9,9 +9,15 @@
 
 - 🎓 On the side, I'm preparing for my GRE & GATE exams to pursue a **Master's in CS in Germany**.
 
-- 💬 Ask me about **Java, Spring Boot, SQL, PLSQL, and ReactJs**
+- 💬 Ask me about **Java, Spring Boot, Struts, SQL, PLSQL, and ReactJs**
 
 - 📫 Reach me at **saumyaishatripathi@gmail.com**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saumya-tripathi-4b9085192/recent-activity/all/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_My_30--Day_LeetCode_Challenge!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn LeetCode Challenge" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +46,16 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumyaish1&show_icons=true&locale=en&layout=compact" alt="saumyaish1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saumyaish1&show_icons=true&locale=en" alt="saumyaish1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyaish1&" alt="saumyaish1" /></p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/darkhoc/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/darkhoc?theme=light&ext=activity" alt="Saumya's LeetCode Stats" />
+  </a>
+</p>
