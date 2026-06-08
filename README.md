@@ -123,24 +123,17 @@ const saumya = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h4>🔥 GitHub Stats</h4>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=saumyaish1&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=8b5cf6&border_color=30363d&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
+    
       <td align="center" width="50%">
         <h4>🧠 LeetCode — <a href="https://leetcode.com/u/darkhoc/">darkhoc</a></h4>
         <img width="100%" src="https://leetcard.jacoblin.cool/darkhoc?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats"/>
       </td>
-    </tr>
-    <tr>
+   
       <td align="center">
         <h4>⚡ Contribution Streak</h4>
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyaish1&theme=tokyonight&background=0d1117&ring=3b82f6&fire=ec4899&currStreakLabel=3b82f6&sideNums=c9d1d9&stroke=30363d&dates=8b949e&currStreakNum=c9d1d9&sideLabels=8b949e" alt="Streak Stats"/>
       </td>
-      <td align="center">
-        <h4>📈 Most Used Languages</h4>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyaish1&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top Languages"/>
-      </td>
+      
     </tr>
   </table>
 </div>
