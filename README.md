@@ -123,20 +123,18 @@ const saumya = {
 <div align="center">
   <table>
     <tr>
-    
       <td align="center" width="50%">
         <h4>🧠 LeetCode — <a href="https://leetcode.com/u/darkhoc/">darkhoc</a></h4>
         <img width="100%" src="https://leetcard.jacoblin.cool/darkhoc?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats"/>
       </td>
-   
-      <td align="center">
+      <td align="center" width="50%">
         <h4>⚡ Contribution Streak</h4>
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=saumyaish1&theme=tokyonight&background=0d1117&ring=3b82f6&fire=ec4899&currStreakLabel=3b82f6&sideNums=c9d1d9&stroke=30363d&dates=8b949e&currStreakNum=c9d1d9&sideLabels=8b949e" alt="Streak Stats"/>
+        <img width="100%" src="https://streak-stats.demolab.com/?user=saumyaish1&theme=tokyonight&background=0d1117&ring=3b82f6&fire=ec4899&currStreakLabel=3b82f6&sideNums=c9d1d9&stroke=30363d&dates=8b949e&currStreakNum=c9d1d9&sideLabels=8b949e" alt="Streak Stats"/>
       </td>
-      
     </tr>
   </table>
 </div>
+
 
 <!-- Contribution Graph -->
 <div align="center">
